@@ -34,18 +34,31 @@ The primary objective is to address the "curse of dimensionality" by selecting o
 
 
 # 📦 FSGSO-SFP-Research
+
  ┣ 📂 datasets   (Standardised)
+ 
  ┃ ┣ 📄 CM1.csv
+ 
  ┃ ┣ 📄 JM1.csv
+ 
  ┃ ┣ 📄 KC1.csv
+ 
  ┃ ┗ 📄 ... (all 12 datasets)
+ 
  ┃ 📜 GSO_ALL.ipynb
+ 
  ┃ 📜 ACO_all.ipynb
+ 
  ┃ 📜 GA_all.ipynb
+ 
  ┃ 📜 PSO_all.ipynb
+ 
  ┃ 📜 DE_all.ipynb
+ 
  ┃ 📜 SOA_all.ipynb
- ┣ 📜 requirements.txt      
+ 
+ ┣ 📜 requirements.txt 
+ 
  ┗ 📜 README.md             
 
 # Installation Guide
